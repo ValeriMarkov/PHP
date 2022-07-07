@@ -1,0 +1,6 @@
+How to start:
+1) Open XAMP contoller and start Apache and MySQL.
+2) Copy archive content into XAMP install direction /htdocs/
+3) Open in browser phpMyAdmin panel, and add a new database "phonebook".
+3) Again in phpMyAdmin panel, import the phonebook.sql file, located in the phonebook folder.
+4) Site is ready to browse at - http://localhost/phoneBook/index.php
